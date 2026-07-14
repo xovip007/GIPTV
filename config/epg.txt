@@ -1,3 +1,12 @@
 # 这是EPG订阅列表，用于生成M3U结果频道菜单信息
 # This is the EPG subscription list used to generate M3U result channel menu information
+
+https://epg.112114.xyz/pp.xml
+http://epg.51zmt.top:8000/e.xml
+https://live.fanmingming.com/e.xml
+https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/e.xml
+https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/py/TV/EPG/epg.xml
+https://raw.githubusercontent.com/kakaxi-1/IPTV/refs/heads/main/epg.xml
+https://epg.v1.mk/fy.xml
 http://e.erw.cc/e.xml.gz
+https://assets.livednow.com/epg.xml
