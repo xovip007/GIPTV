@@ -3,6 +3,8 @@
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
 
+https://m3utv.oxxxxo.xyz/abc123
+https://1080tv.oxxxxo.xyz/live.m3u
 https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
 https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/py/TV/output/ipv4/result.txt
 https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt
